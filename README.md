@@ -21,4 +21,4 @@ O código está organizado nos seguintes pacotes:
 
 Abaixo está o diagrama UML que representa as funcionalidades do iPhone:
 
-![Diagrama UML](images/uml_diagram.png)
+![Diagrama UML](uml_diagram.png)
